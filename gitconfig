@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = casado_me@hotmail.com
+	name = Maria Casado
